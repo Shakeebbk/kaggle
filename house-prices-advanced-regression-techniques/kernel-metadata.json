@@ -1,0 +1,13 @@
+{
+  "id": "shakeebbk/housing-prices-advanced-regression",
+  "title": "Housing Prices Advanced Regression",
+  "code_file": "src/Solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["house-prices-advanced-regression-techniques"],
+  "kernel_sources": []
+}

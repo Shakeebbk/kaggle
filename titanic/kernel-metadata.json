@@ -1,0 +1,13 @@
+{
+  "id": "shakeebbk/tianic-ml",
+  "title": "Titanic - ML",
+  "code_file": "src/Solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["titanic"],
+  "kernel_sources": []
+}
