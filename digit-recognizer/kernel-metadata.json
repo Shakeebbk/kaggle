@@ -1,0 +1,13 @@
+{
+  "id": "shakeebbk/digit-recognizer",
+  "title": "Digit Recognizer",
+  "code_file": "src/Solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["digit-recognizer"],
+  "kernel_sources": []
+}
