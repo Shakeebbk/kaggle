@@ -1,0 +1,13 @@
+{
+  "id": "shakeebbk/talkingdata-adtracking-fraud-detection",
+  "title": "Talkingdata adtracking fraud detection",
+  "code_file": "src/Solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["talkingdata-adtracking-fraud-detection"],
+  "kernel_sources": []
+}
